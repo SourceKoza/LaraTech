@@ -4,7 +4,7 @@ mysql_select_db('db_emp1634') or die("database can't select");
 
 $date=$_REQUEST['name'];
 
-
+echo "hi";
 $query = "select * from grdetails where grdate='$date'";
 $result = mysql_query($query);
 ?><table class='table table-striped'>
