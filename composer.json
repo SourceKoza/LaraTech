@@ -1,1 +1,23 @@
-project1/myproject
+{
+    "name": "project1/myproject",
+    "type": "library",
+    "description": "Check age middlreqare for PHP 7.2",
+    "keywords": ["age","middleware"],
+    "homepage": "https://github.com/SourceKoza/project1",
+    "license": "Generarl",
+    "authors": [
+        {
+            "name": "Ramesh Pandey",
+            "email": "rameshkpandey1889@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "TestProject": "src"
+        }
+    }
+}
