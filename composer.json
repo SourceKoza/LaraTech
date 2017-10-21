@@ -1,6 +1,6 @@
 {
     "name": "project1/myproject",
-    "type": "library",
+    
     "description": "Check age middlreqare for PHP 7.2",
     "keywords": ["age","middleware"],
     "homepage": "https://github.com/SourceKoza/project1",
