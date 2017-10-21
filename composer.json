@@ -3,8 +3,8 @@
     
     "description": "Check age middlreqare for PHP 7.2",
     "keywords": ["age","middleware"],
-    "homepage": "https://github.com/SourceKoza/project1",
-    "license": "Generarl",
+    "homepage": "https://github.com/SourceKoza/LaraTech",
+    "license": "General",
     "type":"project",
     "authors": [
         {
